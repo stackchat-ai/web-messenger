@@ -1,0 +1,186 @@
+/*!
+ * stackchat 2.1.30 
+ * License : https://stackchat.com/terms
+ * 
+ * All files located in the node_modules and external directories are
+ * externally maintained libraries used by this software which have their
+ * own licenses; we recommend you read them, as their terms may differ from
+ * the terms above.
+ * 
+ */
+@keyframes _3FxKeTOOgcsFroUq6se9N7 {
+  0% {
+    width: 434px;
+    height: 664px;
+  }
+}
+@-webkit-keyframes _3FxKeTOOgcsFroUq6se9N7 {
+  0% {
+    width: 434px;
+    height: 664px;
+  }
+}
+@keyframes _1GmqPtlICLsWVMg2Kpdx_0 {
+  0% {
+    width: 374px;
+    height: 504px;
+  }
+}
+@-webkit-keyframes _1GmqPtlICLsWVMg2Kpdx_0 {
+  0% {
+    width: 374px;
+    height: 504px;
+  }
+}
+@keyframes _36mHeCXpAKdhEsuuD5g8oV {
+  0% {
+    width: 354px;
+    height: 444px;
+  }
+}
+@-webkit-keyframes _36mHeCXpAKdhEsuuD5g8oV {
+  0% {
+    width: 354px;
+    height: 444px;
+  }
+}
+@keyframes _1ZWQW0p6AI6UGwBFbdBf9M {
+  0% {
+    width: 100%;
+    height: 100%;
+  }
+}
+@-webkit-keyframes _1ZWQW0p6AI6UGwBFbdBf9M {
+  0% {
+    width: 100%;
+    height: 100%;
+  }
+}
+._2ChX4GFAl1-UBiWknYZyEQ {
+  z-index: 9998;
+  border: none;
+  position: fixed;
+}
+.avcHn2VQJenBvoR5hilPG ._2ChX4GFAl1-UBiWknYZyEQ,
+._3fQbteJd3oQu4il3LpMKkX.avcHn2VQJenBvoR5hilPG ._2ChX4GFAl1-UBiWknYZyEQ {
+  right: 14px;
+  bottom: 20px;
+  margin-bottom: -1px;
+}
+@media (min-width: 1200px) and (min-height: 668px) {
+  ._3fQbteJd3oQu4il3LpMKkX.avcHn2VQJenBvoR5hilPG ._2ChX4GFAl1-UBiWknYZyEQ {
+    -webkit-animation: _3FxKeTOOgcsFroUq6se9N7 0.4s cubic-bezier(0.62, 0.28, 0.23, 0.99);
+    animation: _3FxKeTOOgcsFroUq6se9N7 0.4s cubic-bezier(0.62, 0.28, 0.23, 0.99);
+    -webkit-animation-delay: .2s;
+    animation-delay: .2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+}
+@media (min-width: 768px) and (min-height: 508px) {
+  ._3fQbteJd3oQu4il3LpMKkX.avcHn2VQJenBvoR5hilPG ._2ChX4GFAl1-UBiWknYZyEQ {
+    -webkit-animation: _1GmqPtlICLsWVMg2Kpdx_0 0.4s cubic-bezier(0.62, 0.28, 0.23, 0.99);
+    animation: _1GmqPtlICLsWVMg2Kpdx_0 0.4s cubic-bezier(0.62, 0.28, 0.23, 0.99);
+    -webkit-animation-delay: .2s;
+    animation-delay: .2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+}
+@media (min-width: 768px) and (max-height: 507px) {
+  ._3fQbteJd3oQu4il3LpMKkX.avcHn2VQJenBvoR5hilPG ._2ChX4GFAl1-UBiWknYZyEQ {
+    -webkit-animation: _36mHeCXpAKdhEsuuD5g8oV 0.4s cubic-bezier(0.62, 0.28, 0.23, 0.99);
+    animation: _36mHeCXpAKdhEsuuD5g8oV 0.4s cubic-bezier(0.62, 0.28, 0.23, 0.99);
+    -webkit-animation-delay: .2s;
+    animation-delay: .2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+}
+@media (max-width: 767px) {
+  ._3fQbteJd3oQu4il3LpMKkX.avcHn2VQJenBvoR5hilPG ._2ChX4GFAl1-UBiWknYZyEQ {
+    -webkit-animation: _1ZWQW0p6AI6UGwBFbdBf9M 0.4s cubic-bezier(0.62, 0.28, 0.23, 0.99);
+    animation: _1ZWQW0p6AI6UGwBFbdBf9M 0.4s cubic-bezier(0.62, 0.28, 0.23, 0.99);
+    -webkit-animation-delay: 0;
+    animation-delay: 0;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+}
+._3dtqBiGeC8k3yop4A-9Lwm ._2ChX4GFAl1-UBiWknYZyEQ,
+._3fQbteJd3oQu4il3LpMKkX._3dtqBiGeC8k3yop4A-9Lwm ._2ChX4GFAl1-UBiWknYZyEQ {
+  right: 8px;
+  height: 56px;
+  bottom: 0;
+  transition: height 0.4s cubic-bezier(0.62, 0.28, 0.23, 0.99);
+}
+@media (max-width: 767px) {
+  ._3dtqBiGeC8k3yop4A-9Lwm ._2ChX4GFAl1-UBiWknYZyEQ,
+  ._3fQbteJd3oQu4il3LpMKkX._3dtqBiGeC8k3yop4A-9Lwm ._2ChX4GFAl1-UBiWknYZyEQ {
+    width: 100%;
+  }
+}
+@media (min-width: 768px) and (max-height: 507px) {
+  ._3dtqBiGeC8k3yop4A-9Lwm ._2ChX4GFAl1-UBiWknYZyEQ,
+  ._3fQbteJd3oQu4il3LpMKkX._3dtqBiGeC8k3yop4A-9Lwm ._2ChX4GFAl1-UBiWknYZyEQ {
+    width: 354px;
+  }
+}
+@media (min-width: 768px) and (min-height: 508px) {
+  ._3dtqBiGeC8k3yop4A-9Lwm ._2ChX4GFAl1-UBiWknYZyEQ,
+  ._3fQbteJd3oQu4il3LpMKkX._3dtqBiGeC8k3yop4A-9Lwm ._2ChX4GFAl1-UBiWknYZyEQ {
+    width: 374px;
+  }
+}
+@media (min-width: 1200px) and (min-height: 668px) {
+  ._3dtqBiGeC8k3yop4A-9Lwm ._2ChX4GFAl1-UBiWknYZyEQ,
+  ._3fQbteJd3oQu4il3LpMKkX._3dtqBiGeC8k3yop4A-9Lwm ._2ChX4GFAl1-UBiWknYZyEQ {
+    width: 434px;
+  }
+}
+@media (max-width: 767px) {
+  html._2TELtk5nDKlQudVSivRjpt,
+  html._2TELtk5nDKlQudVSivRjpt body {
+    overflow: hidden;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    max-height: 100%;
+    height: auto;
+    width: 100%;
+  }
+}
+@media (max-width: 767px) {
+  ._2TELtk5nDKlQudVSivRjpt ._2ChX4GFAl1-UBiWknYZyEQ {
+    width: 100%;
+    height: 100%;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    max-height: 100%;
+  }
+}
+@media (min-width: 768px) and (max-height: 507px) {
+  ._2TELtk5nDKlQudVSivRjpt ._2ChX4GFAl1-UBiWknYZyEQ {
+    width: 354px;
+    height: 444px;
+  }
+}
+@media (min-width: 768px) and (min-height: 508px) {
+  ._2TELtk5nDKlQudVSivRjpt ._2ChX4GFAl1-UBiWknYZyEQ {
+    width: 374px;
+    height: 504px;
+  }
+}
+@media (min-width: 1200px) and (min-height: 668px) {
+  ._2TELtk5nDKlQudVSivRjpt ._2ChX4GFAl1-UBiWknYZyEQ {
+    width: 434px;
+    height: 664px;
+  }
+}
+._24n-ftZlG3wDvoWFR8zUnn ._2ChX4GFAl1-UBiWknYZyEQ {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  max-height: 100%;
+}
